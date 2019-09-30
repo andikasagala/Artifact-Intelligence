@@ -4,4 +4,4 @@ This repo is index for Artifact Intelligence.
 
 Lists:
 
-- Sqlmap Black and White
+- 
